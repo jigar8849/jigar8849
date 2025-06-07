@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Full-Stack Web Developer | Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
-I'm a dedicated and detail-oriented web developer with hands-on experience in designing and building dynamic, scalable web applications. Proficient in front-end and back-end technologies including <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>Node.js</strong>, <strong>Express.js</strong>, and <strong>MongoDB</strong>. I specialize in creating intuitive user interfaces and efficient server-side logic. I thrive in collaborative environments and am passionate about continuous learning, solving complex problems, and delivering impactful digital experiences.
+I'm a dedicated and detail-oriented web developer building dynamic, scalable web applications. Proficient in front-end and back-end technologies including HTML, CSS, JavaScript, Node.js, Express.js, and MongoDB. I specialize in creating intuitive user interfaces and efficient server-side logic. I thrive in collaborative environments and am passionate about continuous learning, solving complex problems, and delivering impactful digital experiences.
 </p>
 
 <br/>
@@ -20,7 +20,7 @@ I'm a dedicated and detail-oriented web developer with hands-on experience in de
 
 ---
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MERN Stack**
 - 📫 Reach me at: **jigarprajapati6457@gmail.com**
 
 ---
@@ -29,7 +29,6 @@ I'm a dedicated and detail-oriented web developer with hands-on experience in de
 <p align="left">
   <a href="https://twitter.com/jigar4898" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/jigarkumar-prajapati-a6a7b9237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://instagram.com/jigar_0251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
 
 ---
