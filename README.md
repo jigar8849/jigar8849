@@ -20,7 +20,7 @@ I'm a dedicated and detail-oriented web developer building dynamic, scalable web
 
 ---
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **AWS cloud Deployment**
 - 📫 Reach me at: **jigarprajapati6457@gmail.com**
 
 ---
